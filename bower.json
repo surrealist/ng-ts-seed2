@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "authors": [
+    "Suthep Sangvirotjanaphat <suthep@gfbd.co.th>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-bootstrap": "~0.14.3",
+    "bootstrap": "~3.3.5",
+    "chance": "~0.8.0",
+    "font-awesome": "~4.4.0",
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3"
+  }
+}
